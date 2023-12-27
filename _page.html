@@ -1,0 +1,7 @@
+{%- set repo = pages[pkg] -%}
+<html><head>
+<meta name="go-import" content="go.withmatt.com/{{pkg}} git https://github.com/{{repo}}">
+<meta name="go-source" content="go.withmatt.com/{{pkg}} https://github.com/{{repo}} https://github.com/{{repo}}/tree/main/{/dir} https://github.com/{{repo}}/tree/main{/dir}/{file}#L{line}">
+<meta http-equiv="refresh" content="0; url=https://github.com/{{repo}}">
+</head></html>
+

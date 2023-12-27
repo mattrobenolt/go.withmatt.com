@@ -1,0 +1,9 @@
+pages:
+  autopprof: mattrobenolt/autopprof
+  connect-brotli: mattrobenolt/connect-brotli
+  connect-etcd: mattrobenolt/connect-etcd
+  connect-python: mattrobenolt/connect-python
+  httpheaders: mattrobenolt/go-httpheaders
+  purpleair: mattrobenolt/go-purpleair
+  randid: mattrobenolt/go-randid
+  size: mattrobenolt/size
