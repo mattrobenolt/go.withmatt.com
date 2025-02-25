@@ -7,3 +7,4 @@ pages:
   purpleair: mattrobenolt/go-purpleair
   randid: mattrobenolt/go-randid
   size: mattrobenolt/size
+  fasttime: mattrobenolt/go-fasttime

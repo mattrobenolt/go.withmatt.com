@@ -6,7 +6,8 @@ pkgs = \
 	httpheaders \
 	purpleair \
 	randid \
-	size
+	size \
+	fasttime
 
 pages = $(addsuffix .html,$(pkgs))
 
