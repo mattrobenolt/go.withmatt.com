@@ -7,7 +7,9 @@ pkgs = \
 	purpleair \
 	randid \
 	size \
-	fasttime
+	fasttime \
+	metrics \
+	metrics-speedups
 
 pages = $(addsuffix .html,$(pkgs))
 

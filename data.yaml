@@ -8,3 +8,5 @@ pages:
   randid: mattrobenolt/go-randid
   size: mattrobenolt/size
   fasttime: mattrobenolt/go-fasttime
+  metrics: mattrobenolt/go-metrics
+  metrics-speedups: mattrobenolt/go-metrics-speedups
