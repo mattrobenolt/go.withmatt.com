@@ -10,3 +10,4 @@ pages:
   fasttime: mattrobenolt/go-fasttime
   metrics: mattrobenolt/go-metrics
   metrics-speedups: mattrobenolt/go-metrics-speedups
+  murl: mattrobenolt/murl
