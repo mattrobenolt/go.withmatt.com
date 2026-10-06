@@ -1,1 +1,10 @@
-out/
+.direnv/
+node_modules/
+
+# cloudflare build and dev state
+.cloudflare/
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
